@@ -35,7 +35,6 @@
 ### ☁️ System Architecture
 - RESTful APIs with Node.js
 - Microcomponent-based frontend using Next.js
-- Separate repositories for authentication services
 - Redis caching with awareness of multi-tenant data isolation
 - Secure image and data handling in cloud-based systems
 
